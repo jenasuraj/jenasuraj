@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hii There👋I'm Suraj jena</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
