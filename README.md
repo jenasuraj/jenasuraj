@@ -5,47 +5,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenasuraj&label=Profile%20views&color=0e75b6&style=flat" alt="jenasuraj" /> </p>
 
-- 🔭 I’m currently working on **Web-development Projects**
+- # 💫 About Me:
+🔭 I’m currently working on learning Ai chatbot using Langchain<br>👯 I’m looking to collaborate on  application building and open-source*<br>🤝 I’m looking for help with projects using Js and Linkedin<br>🌱 I’m currently learning python , Sql, Javascript<br>💬 Ask me about website building and cp!<br>⚡  i play games  ha ha!!
 
-- 🌱 I’m currently learning **javascript,bootstrap & python**
 
-- 👯 I’m looking to collaborate on **Web-managing**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jenasuraj_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@jenasuraj_) 
 
-- 👨‍💻 You can connect me via- [https://bento.me/surajjena](https://bento.me/surajjena)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jenasuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jenasuraj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenasuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📝 I regularly write articles on [https://hashnode.com/@jenasuraj](https://hashnode.com/@jenasuraj)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jenasuraj&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-- 💬 Ask me about **Html,Css,Git,Java,C,Canva,Figma**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jenasuraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **jenasuraj742@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=jenasuraj&icon=5&color=1)](https://visitcount.itsvg.in)
 
-- 📄 Know about my experiences [https://www.linkedin.com/resume-builder/urn:li:fsd_memberResume:53656132/?edit=true](https://www.linkedin.com/resume-builder/urn:li:fsd_memberResume:53656132/?edit=true)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jenasuraj79) 
 
-- ⚡ Fun fact **Ha ha i think i'm kinda too friendly with people**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@jenasuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jenasuraj" height="30" width="40" /></a>
-<a href="https://twitter.com/jenasuraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jenasuraj_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-jena-0991a121a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-jena-0991a121a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/suraj jena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suraj jena" height="30" width="40" /></a>
-<a href="https://instagram.com/@jenasuraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jenasuraj_" height="30" width="40" /></a>
-<a href="https://dribbble.com/jenasuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jenasuraj" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jenasuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jenasuraj" height="30" width="40" /></a>
-<a href="https://medium.com/@jenasuraj742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jenasuraj742" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jenasuraj742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jenasuraj742" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jenasuraj742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jenasuraj742" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jenasuraj742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jenasuraj742" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<jenasuraj>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<jenasuraj>" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jenasuraj79"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jenasuraj79" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenasuraj&show_icons=true&locale=en&layout=compact" alt="jenasuraj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenasuraj&show_icons=true&locale=en" alt="jenasuraj" /></p>
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
