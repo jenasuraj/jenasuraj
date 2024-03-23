@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenasuraj&label=Profile%20views&color=0e75b6&style=flat" alt="jenasuraj" /> </p>
 
 - # 💫 About Me:
-🔭 I’m currently working on learning Ai chatbot using Langchain<br>👯 I’m looking to collaborate on  application building and open-source*<br>🤝 I’m looking for help with projects using Js <br>🌱 I’m currently learning python , Sql, Javascript<br>💬 Ask me about website building and cp!<br>⚡  i play games  ha ha!!
+🔭 I’m currently working on learning Ai chatbot using Langchain<br>👯 I’m looking to collaborate on  application building and open-source*<br>🤝 I’m looking for help with projects using Js <br>🌱 I’m currently learning python , Sql, Javascript<br>💬 Ask me about website building and cp!<br>⚡  i play games  ha ha!!<br>👻 You can dm me/-jenasuraj742@gmail.com
 
 
 ## 🌐 Socials:
