@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Suraj Jena
 
-🎓 **Computer Science Student | Full-Stack Developer | AI Enthusiast**
+🎓 **Agentic ai | Full-Stack Developer | AI Enthusiast**
 
 I'm a passionate problem solver with over **100+ LeetCode questions solved**, and I thrive at the intersection of **AI** and **Web Development**. I specialize in building full-stack applications and AI-powered workflows using modern frameworks and prompt engineering techniques. I love using tools like LangChain, FastAPI, and Next.js to bring smart ideas to life.
 
@@ -18,30 +18,11 @@ I'm a passionate problem solver with over **100+ LeetCode questions solved**, an
 `MySQL` | `SQL` | `MongoDB`
 
 **AI & Tools:**  
-`OpenAI` | `ChatGPT` | `HuggingFace` | `Pinecone` | `ChromaDB` | `FAISS` | `Claude`
+`OpenAI` | `ChatGPT` | `HuggingFace` | `Pinecone` | `ChromaDB` | `FAISS` | `Claude` | `MCP` | `A2A`
 
 **Dev Tools:**  
 `Git` | `GitHub` | `Postman` | `Canva`
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 [MediumX](https://github.com/jenasuraj/MediumX)
-> A full-stack blog website powered by AI (LangChain).  
-🧠 Smart content suggestions  
-📝 Blog creation + publishing flow  
-🧩 Stack: `Next.js`, `Express.js`, `LangChain`, `SQL`
-
----
-
-### 🔹 [Explora - AI Travel Planner](https://github.com/jenasuraj/Ai-TravelPlanner-app)
-> Travel smart with RAG & LangGraph.  
-📍 Suggests best places based on travel days  
-🧠 Integrates Tavily + LangChain agents  
-🧩 Stack: `Next.js`, `FastAPI`, `Express.js`, `SQL`
-
----
 
 ## 🧠 Problem Solving
 
@@ -49,19 +30,6 @@ I'm a passionate problem solver with over **100+ LeetCode questions solved**, an
 - 💡 Strong in algorithms, recursion, and data structures  
 - 🔍 Focused on logic-first thinking with real-world applications
 
----
-
-## 📚 Education
-
-**B.Tech in Computer Science**  
-📍 *Trident Academy of Technology, Bhubaneswar*  
-🗓️ Dec 2021 – May 2025
-
-**+2 Science**  
-📍 *Vikash Higher Secondary School*  
-🗓️ Aug 2018 – Aug 2020
-
----
 
 ## 📜 Certifications
 
