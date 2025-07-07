@@ -1,10 +1,3 @@
-# 👋 Hey there, I'm Suraj Jena
-
-🎓 **Agentic ai | Full-Stack Developer | AI Enthusiast**
-
-I'm a passionate problem solver with over **100+ LeetCode questions solved**, and I thrive at the intersection of **AI** and **Web Development**. I specialize in building full-stack applications and AI-powered workflows using modern frameworks and prompt engineering techniques. I love using tools like LangChain, FastAPI, and Next.js to bring smart ideas to life.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -47,15 +40,4 @@ I'm a passionate problem solver with over **100+ LeetCode questions solved**, an
 📧 [jenasuraj742@gmail.com](mailto:jenasuraj742@gmail.com)
 
 ---
-
-## ⭐ Goals
-
-- Contribute to open-source LangChain/Next.js repos  
-- Build multi-agent AI systems  
-- Collaborate with global devs and participate in hackathons  
-- Get hired as a **full-stack + AI dev** 🌍
-
----
-
-> “Build it, break it, improve it — that’s how real engineers grow.”
 
