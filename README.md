@@ -17,13 +17,6 @@
 `Git` | `GitHub` | `Postman` | `Canva`
 
 
-## 🧠 Problem Solving
-
-- ✅ Solved 100+ LeetCode problems  
-- 💡 Strong in algorithms, recursion, and data structures  
-- 🔍 Focused on logic-first thinking with real-world applications
-
-
 ## 📜 Certifications
 
 - ✅ Front-End Development Libraries – *freeCodeCamp*
@@ -31,13 +24,4 @@
 - ✅ Postman Student Expert + API Fundamentals
 - ✅ Effective Communication – *LinkedIn Learning*
 
----
-
-## 📫 Contact Me
-
-📍 Infocity Square, Bhubaneswar  
-📞 8260842530  
-📧 [jenasuraj742@gmail.com](mailto:jenasuraj742@gmail.com)
-
----
 
