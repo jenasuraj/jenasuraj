@@ -2,19 +2,19 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` | `JavaScript` | `HTML` | `CSS`
+`Python` | `JavaScript` | `TypeScript` | `SQL` | `HTML` | `CSS`
 
 **Frameworks & Libraries:**  
 `Next.js` | `React.js` | `Node.js` | `Express.js` | `FastAPI` | `LangChain` | `LangGraph` | `CrewAI` | `Tailwind` | `Bootstrap`
 
 **Databases:**  
-`MySQL` | `SQL` | `MongoDB`
+`MySQL` | `Postgres` | `MongoDB`
 
 **AI & Tools:**  
-`OpenAI` | `ChatGPT` | `HuggingFace` | `Pinecone` | `ChromaDB` | `FAISS` | `Claude` | `MCP` | `A2A`
+`OpenAI` | `ChatGPT` | `HuggingFace` | `Pinecone` | `ChromaDB` | `FAISS` | `Claude` | `MCP` | 
 
 **Dev Tools:**  
-`Git` | `GitHub` | `Postman` | `Canva`
+`Git` | `GitHub` | `Postman` | `Canva` | `Docker`
 
 
 ## 📜 Certifications
