@@ -17,11 +17,4 @@
 `Git` | `GitHub` | `Postman` | `Canva` | `Docker`
 
 
-## 📜 Certifications
-
-- ✅ Front-End Development Libraries – *freeCodeCamp*
-- ✅ AI Agents Fundamentals – *Hugging Face*
-- ✅ Postman Student Expert + API Fundamentals
-- ✅ Effective Communication – *LinkedIn Learning*
-
 
